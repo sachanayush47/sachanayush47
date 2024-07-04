@@ -1,12 +1,9 @@
 # 💫 About Me:
   
 A generalized software engineer.<br>
-Skilled in frontend, backend, and generative AI technologies.  
-**Interests:** Backend, cloud, and generative AI technologies.
+**Interests:** Backend, Cloud, and Gen AI technologies. <br>
+**Experienced** in Backend, Frontend, and Gen AI technologies. <br>
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachanayush47) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13285022)
 
 # 💻 Tech Stack:
 

@@ -1,9 +1,7 @@
 # 💫 About Me:
 
 A generalised software engineer.
-
 Skilled in Frontend, Backend and GenAI technologies
-
 Interest: Backend, Cloud and GenAI technologies
 
 ## 🌐 Socials:

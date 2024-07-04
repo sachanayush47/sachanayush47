@@ -1,8 +1,8 @@
 # 💫 About Me:
-
-A generalised software engineer.
-Skilled in Frontend, Backend and GenAI technologies
-Interest: Backend, Cloud and GenAI technologies
+  
+A generalized software engineer.<br>
+Skilled in frontend, backend, and generative AI technologies.  
+**Interests:** Backend, cloud, and generative AI technologies.
 
 ## 🌐 Socials:
 

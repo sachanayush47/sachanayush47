@@ -7,10 +7,10 @@ A generalized software engineer.<br>
 
 # 💻 Tech Stack:
 
-**Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
-**Framework & Library:** Django, Flask, ExpressJS, ReactJS, TailwindCSS  
-**Tools & Technologies:** MySQL, Git, Postman, Linux, Docker, LangChain, ChromaDB  
-**Coursework:** Data Structures & Algorithm, Object Oriented Programming, DBMS, OS, CN
+**Languages:** Java, Python, JavaScript, SQL  
+**Framework & Library:** Django, FastAPI, NodeJS, ReactJS, LangChain
+**Tools & Technologies:** MySQL, Redis, Git, Postman, Linux
+**Coursework:** Data Structures, Algorithms, OOP, DBMS, OS, CN
 
 # 📊 GitHub Stats:
 

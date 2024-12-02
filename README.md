@@ -9,7 +9,7 @@ A generalized software engineer.<br>
 
 **Languages:** Java, Python, JavaScript, SQL  
 **Framework & Library:** Django, FastAPI, NodeJS, ReactJS, LangChain <br>
-**Tools & Technologies:** MySQL, Redis, Git, Postman, Linux
+**Tools & Technologies:** MySQL, Redis, Git, Postman, Linux <br>
 **Coursework:** Data Structures, Algorithms, OOP, DBMS, OS, CN
 
 # 📊 GitHub Stats:

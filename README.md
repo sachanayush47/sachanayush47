@@ -8,7 +8,7 @@ A generalized software engineer.<br>
 # 💻 Tech Stack:
 
 **Languages:** Java, Python, JavaScript, SQL  
-**Framework & Library:** Django, FastAPI, NodeJS, ReactJS, LangChain
+**Framework & Library:** Django, FastAPI, NodeJS, ReactJS, LangChain <br>
 **Tools & Technologies:** MySQL, Redis, Git, Postman, Linux
 **Coursework:** Data Structures, Algorithms, OOP, DBMS, OS, CN
 

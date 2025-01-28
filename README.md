@@ -2,15 +2,15 @@
   
 A generalized software engineer.<br>
 **Interests:** Backend, Cloud, and Gen AI technologies. <br>
-**Experienced** in Backend, Frontend, and Gen AI technologies. <br>
+**Experienced** in Backend and Gen AI technologies. Have sound knowledge of Blockchain <br>
 
 
 # 💻 Tech Stack:
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Framework & Library:** Django, FastAPI, NodeJS, ReactJS, LangChain <br>
-**Tools & Technologies:** MySQL, Redis, Git, Postman, Linux <br>
-**Coursework:** Data Structures, Algorithms, OOP, DBMS, OS, CN
+**Languages:** Java, Python, JavaScript  
+**Framework & Library:** Django, FastAPI, ReactJS, <br>
+**Tools & Technologies:** MySQL, Redis, Linux <br>
+**Coursework:** System Design
 
 # 📊 GitHub Stats:
 
